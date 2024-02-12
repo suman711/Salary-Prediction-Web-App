@@ -1,4 +1,4 @@
-# Software Developer Salary Prediction Web App
+# Software Developer Salary Prediction
 
 ### Python, Machine Learning and Streamlit based Web Application
 Tech Stack: Python, NumPy, Pandas, Matplotib, Scikit-learn and Streamlit.
